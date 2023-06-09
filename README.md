@@ -1,0 +1,1 @@
+This repo is totally for basics of programming based on Python.
