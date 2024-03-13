@@ -1,1 +1,3 @@
-This repo is totally for basics of programming based on Python.
+# Python Programming
+
+## A 30 days challenge to learn python essentials
