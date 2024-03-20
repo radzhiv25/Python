@@ -1,7 +1,11 @@
 # match and case
 
-x = 10
+day = input("Enter Day: ")
 
-match(x):
-    case 10:
-        print("Number is 10")
+match(day):
+    case "Monday":
+        print("Monday")
+    case "Tuesday":
+        print("Tuesday")
+    case _:
+        print("Error")
